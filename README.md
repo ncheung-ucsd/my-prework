@@ -11,4 +11,7 @@ I'm a little confused on what the different sound functions do and how they work
 First of all, I think I would spend some time debugging my current project as sometimes will mark the correct choice incorrect and I didn't have time to figure out how to fix that. Secondly, I think I would try to add some of the additional features such as multiple lives. Finally, I think it would be really cool to work further on the backend of the system with some sort of database to save high scores. 
 
 ## Interview Recording URL Link
-[My 5-minute Interview Recording] https://drive.google.com/file/d/14mTSjOHYRZGn1Hb-G5vK_qRBBB1UN6Hi/view?usp=sharing
+[My 5-minute Interview Recording](https://drive.google.com/file/d/14mTSjOHYRZGn1Hb-G5vK_qRBBB1UN6Hi/view?usp=sharing)
+
+## Project gif
+![project.gif](project.gif)
